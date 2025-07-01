@@ -1,0 +1,3 @@
+tdesiteeg FH8nnLvKbYVuJA3R
+
+mongodb+srv://admin:diaspora123@diaspora-db.hd7nq57.mongodb.net/?retryWrites=true&w=majority&appName=diaspora-db
